@@ -36,5 +36,3 @@
 
 ### Kesimpulan
 Model CNN yang dibangun mampu mengklasifikasikan gambar Rock, Paper, dan Scissors dengan **akurasi tinggi dan waktu pelatihan yang cepat**. Proyek ini menunjukkan penerapan Computer Vision dasar dengan hasil yang memuaskan.
-
-##### Proyek Final Belajar Machine Learning untuk Pemula
